@@ -51,14 +51,6 @@
   "_dependenciesComments": {
     "parse5": "Pinned to exact version number because we monkeypatch its internals (see htmltodom.js)"
   },
-  "peerDependencies": {
-    "canvas": "^2.5.0"
-  },
-  "peerDependenciesMeta": {
-    "canvas": {
-      "optional": true
-    }
-  },
   "devDependencies": {
     "@domenic/eslint-config": "^1.4.0",
     "benchmark": "^2.1.4",
