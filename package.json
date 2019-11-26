@@ -1,7 +1,7 @@
 {
-  "name": "jsdom",
-  "version": "19.0.0",
-  "description": "A JavaScript implementation of many web standards",
+  "name": "@applitools/jsdom",
+  "version": "1.0.3",
+  "description": "jsdom without canvas 19.0.0",
   "keywords": [
     "dom",
     "html",
@@ -76,7 +76,6 @@
     "yargs": "^17.2.1"
   },
   "browser": {
-    "canvas": false,
     "vm": "./lib/jsdom/vm-shim.js",
     "./lib/jsdom/living/websockets/WebSocket-impl.js": "./lib/jsdom/living/websockets/WebSocket-impl-browser.js"
   },
