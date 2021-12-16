@@ -1,6 +1,6 @@
 {
   "name": "@applitools/jsdom",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "jsdom without canvas 19.0.0",
   "keywords": [
     "dom",
